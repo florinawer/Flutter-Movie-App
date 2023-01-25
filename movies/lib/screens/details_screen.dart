@@ -9,6 +9,7 @@ class DetailsScreen extends StatelessWidget {
       body: Container(
         child: const Center(
           child: Text("Details Screen"),
+          //todo - implemetation
         ),
       ),
     );
