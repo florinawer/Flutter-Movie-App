@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
       //hace que puedas scoll hacia abajo si el widget es mas grande que la pantalla
       body: SingleChildScrollView(
         child: Column(
-          children: const [
+          children: [
             CardSwiper(),
             MovieSlider(),
           ],
